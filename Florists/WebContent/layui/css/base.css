@@ -1,0 +1,92 @@
+* {
+	cursor: default;
+}
+
+body {
+	background-color: #e2e2e2;
+}
+
+a {
+	cursor: pointer;
+}
+
+.h1class {
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 60px;
+}
+
+.fontBlue {
+	color: #0013f0;
+}
+
+.fontRed {
+	color: red;
+	font-weight: bold;
+}
+
+.margintop20 {
+	margin-top: 20px;
+}
+
+.marginauto1200 {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.marginauto600 {
+	width: 600px;
+	margin: 0 auto;
+}
+
+.height120 {
+	height: 120px;
+}
+
+.height220 {
+	height: 220px;
+}
+
+.height520 {
+	height: 520px;
+}
+
+.height600 {
+	height: 600px;
+}
+
+.shopcar {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	color: #0013f0;
+	cursor: pointer;
+}
+
+.shopcart {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #0013f0;
+    cursor: pointer;
+}
+
+.delete {
+	position: absolute;
+    bottom: 10px;
+    right: 10px;
+    color: #0013f0;
+    cursor: pointer;
+}
+.amount, .cartAmount , .price{
+	margin-right: 20px;
+}
+
+.heighi50overhidden {
+	height: 50px;
+	overflow: hidden;
+}
+
+#category a {
+	margin-left: 50px;
+}
